@@ -1,5 +1,5 @@
 ## 1.1.1
-* Updated package
+* Updated packages
 
 ## 1.0.0
 * Migrated to ESLint v9
